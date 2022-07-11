@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'spotify-a';
+
 }
+// poner el signo de ? sirve para que un atributo de una clase sea opcional
